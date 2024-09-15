@@ -35,9 +35,9 @@ This project is a multi-page, responsive university website built using HTML, CS
 ```
 university-website/
 │
-├── styles.css        # Main CSS file
+├── styles.css            # Main CSS file
 │
-├── form-handler.php       # PHP file to handle form submissions
+├── form-handler.php      # PHP file to handle form submissions
 │
 ├── index.html            # Homepage
 ├── about.html            # About page
