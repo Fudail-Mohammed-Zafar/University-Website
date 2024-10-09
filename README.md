@@ -18,18 +18,6 @@ This project is a multi-page, responsive university website built using HTML, CS
 4. **Blog**: A page that displays certification or online programs for the academic year.
 5. **Contact**: Contains a form where users can input their name, email, and message. Data is collected and processed using PHP.
 
-## Technologies Used
-
-- **HTML**: For structuring the content of the website.
-- **CSS**: For styling and responsive design.
-- **PHP**: For backend processing of the "Contact Us" form and handling form submissions.
-
-## How to Use
-
-1. **Navigation**: Use the navbar to navigate between different pages of the website.
-2. **Contact Form**: Users can fill in the form on the "Contact Us" page. Upon submission, the data is collected and stored in the backend for further processing.
-3. **Responsive Design**: View the website on different devices to see its responsive nature.
-
 ## Folder Structure
 
 ```
@@ -46,3 +34,8 @@ university-website/
 └── blog.html             # Blog page
 ```
 
+## How to Use
+
+1. **Navigation**: Use the navbar to navigate between different pages of the website.
+2. **Contact Form**: Users can fill in the form on the "Contact Us" page. Upon submission, the data is collected and stored in the backend for further processing.
+3. **Responsive Design**: View the website on different devices to see its responsive nature.
